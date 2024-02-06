@@ -107,4 +107,12 @@ dist
 .vscode-test
 
 .idea
-_site
+
+# Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# Misc
+/public
