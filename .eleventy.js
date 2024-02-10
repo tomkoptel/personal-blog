@@ -1,6 +1,6 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
-    files: './public/static/**/*.css',
+    files: './public/output.css',
   });
 
   return {
